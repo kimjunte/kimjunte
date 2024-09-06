@@ -4,6 +4,8 @@ If your from my youtube channel, my automations scripts that are most commonly u
 
 Enjoy <3
 
+If your a hiring manager/recruiter, most of repos are private under 'MealCraft' due to running a self-hosted runner. I have some public repo that don't need a self hosted runner but feel free to check it out here [MealCraft Github](https://github.com/orgs/MealCraft/repositories?q=visibility%3Apublic+archived%3Afalse)
+
 <!--
 **kimjunte/kimjunte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
