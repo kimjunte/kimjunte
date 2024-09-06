@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+If your from youtube, my automations scripts that are most commonly used are under my pinned section.
+
+Enjoy <3
+
 <!--
 **kimjunte/kimjunte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
