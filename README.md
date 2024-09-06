@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-If your from my youtube, my automations scripts that are most commonly used are under my pinned section.
+If your from my youtube channel, my automations scripts that are most commonly used are under my pinned section.
 
 Enjoy <3
 
