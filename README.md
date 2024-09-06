@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ```python
-if youtube_channel_follower:
+if YouTube_Channel_Follower:
     # Check out my automation scripts in the pinned repositories.
-elif hiring_manager or recruiter:
+elif Hiring_manager or Recruiter:
     # Most of my code is private due to the use of a self-hosted runner,
     # but here are some public repositories:
 ```
