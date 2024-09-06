@@ -4,7 +4,8 @@
 if youtube_channel_follower:
     # my automations scripts are in pinned.
 elif hiring manager/recruiter:
-    # most of repos are private under 'MealCraft' due to running a self-hosted runner. I have some public repo that don't need a self hosted runner but feel free to check it out here [MealCraft Github](https://github.com/orgs/MealCraft/repositories?q=visibility%3Apublic+archived%3Afalse)
+    # My code is mostly private due to needing a self-hosted runner but some are public:
+    # [MealCraft Github](https://github.com/orgs/MealCraft/repositories?q=visibility%3Apublic+archived%3Afalse)
 ```
 Enjoy 💪
 
