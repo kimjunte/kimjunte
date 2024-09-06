@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-```python
+
 if youtube_channel_follower:
     # my automations scripts are in pinned.
+    
 elif hiring manager/recruiter:
     # My code is mostly private due to needing a self-hosted runner but some are public:
+    
     # [MealCraft Github](https://github.com/orgs/MealCraft/repositories?q=visibility%3Apublic+archived%3Afalse)
-```
+
 Enjoy 💪
 
 <!--
